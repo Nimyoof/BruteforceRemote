@@ -1,4 +1,3 @@
-
 function comparetabs(e, t)
     local k = 0
     for i = 1, #e do
