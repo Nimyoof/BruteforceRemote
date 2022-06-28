@@ -38,6 +38,7 @@ repeat
 until #e == tonumber(#args)^tonumber(#args)
 return e
 end
+-- How to use it example
 local anothertab = {}
 for i,v in pairs(getresult(1,2,3)) do
     for z, r in pairs(v) do
